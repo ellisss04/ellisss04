@@ -14,8 +14,14 @@
 ```yaml
 name: Ellis Mackness
 located_in: South Coast, United Kingdom
-subject: Computer Science BSc
-student_at: 2nd year, University of Exeter
+
+
+education = {
+  "location": "University of Exeter",
+  "subject": "Computer Science BSc",
+  "year": 2,
+}
+
 
 fields_of_interests:
   [
