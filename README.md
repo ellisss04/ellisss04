@@ -45,4 +45,4 @@ I am a 2nd year Computer Science student at The University of Exeter, United, Ki
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ellisss04&theme=dark&background=000000)](https://git.io/streak-stats)
-![Snake animation](https://github.com/thepiyushmalhotra/ellisss04/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellisss04/ellisss04/blob/output/github-contribution-grid-snake.svg)
