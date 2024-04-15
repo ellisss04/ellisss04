@@ -9,17 +9,28 @@
   <img src="https://komarev.com/ghpvc/?username=ellisss04&style=flat-square&color=blue" alt=""/>
 </div>
 
----
+## 🔭 I’m currently working on [Spotfolio](https://github.com/ellisss04/Spotify_Portfolio)
 
-### :man_technologist: About Me :
-I am a 2nd year Computer Science student at The University of Exeter, United, Kingdom.
-- 🔭 I’m currently working on [Spotfolio](https://github.com/ellisss04/Spotify_Portfolio)
-- :seedling: I enjoy machine learning/AI, backend development, and problem solving
-- 📑 I'm looking to grow my network and find like minded people to collaborate with
-- :zap: In my free time, I like to keep up to date on various forums and news sites about the latest developments in tech
--  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellis-mackness/)
+```yaml
+name: Ellis Mackness
+located_in: South Coast, United Kingdom
+subject: Computer Science BSc
+student_at: 2nd year, University of Exeter
 
----
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Web Development",
+    "Backend",
+    "Data Science",
+    "UI/UX",
+    "Nature inspired computing"
+  ]
+ 
+currently_learning: ["C, C++, Flask"]
+2024 Goals: ["Create an array of fun projects to improve my abilities"]
+hobbies: ["Music", "Guitar", "Gym", "Reading"]
+```
 
 ### :hammer_and_wrench: Languages and Tools : 
 
@@ -39,6 +50,5 @@ I am a 2nd year Computer Science student at The University of Exeter, United, Ki
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ellisss04&theme=dark&background=000000)](https://git.io/streak-stats)
-![Snake animation](https://github.com/ellisss04//blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
