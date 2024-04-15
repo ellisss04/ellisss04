@@ -18,7 +18,7 @@ located_in: South Coast, United Kingdom
 education = {
   "location": "University of Exeter",
   "subject": "Computer Science BSc",
-  "year": 2,
+  "year": 2.0,
 }
 
 
