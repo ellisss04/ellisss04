@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=ellisss04&style=flat-square&color=blue" alt=""/>
 </div>
 
-## 🔭 I’m currently working on [Spotfolio](https://github.com/ellisss04/Spotify_Portfolio)
 
 ```yaml
 name: Ellis Mackness
@@ -52,6 +51,8 @@ hobbies: ["Music", "Guitar", "Gym", "Reading"]
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+## 🔭 I’m currently working on: [Spotfolio](https://github.com/ellisss04/Spotify_Portfolio)
 
 
 ### :fire: My Stats :
