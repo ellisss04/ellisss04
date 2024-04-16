@@ -1,6 +1,7 @@
 <img src="https://camo.githubusercontent.com/82e15927fe3a779d5bb243ed93d85f49768667c7251d713991e67888e522f207/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header" style="max-width: 100%;">
 <div id='header' align='center'>
-  <img clas='animated-gif' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR0MzF3bG80cnhrd3JyZHpicmhoa2xhdnF2eDR5ODBlNHU1bWVrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1dr2kog5CiGeGmDH4E/giphy.gif'></img>
+  <img class='animated-gif' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR0MzF3bG80cnhrd3JyZHpicmhoa2xhdnF2eDR5ODBlNHU1bWVrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1dr2kog5CiGeGmDH4E/giphy.gif' width='300' height='300'>
+</img>
     <div id="badges">
     <a href="https://www.linkedin.com/in/ellis-mackness">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
