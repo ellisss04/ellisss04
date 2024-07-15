@@ -14,7 +14,7 @@
 ```yaml
 name: Ellis Mackness
 located_in: South Coast, United Kingdom
-
+current_position: Software engineering intern at Gill Research and Development ltd.
 
 education = {
   "location": "University of Exeter",
@@ -23,13 +23,13 @@ education = {
 }
 
 
+
+
 fields_of_interests:
   [
     "Machine Learning",
-    "Web Development",
-    "Backend",
+    "Natural Language Processing",
     "Data Science",
-    "UI/UX",
     "Nature inspired computing"
   ]
  
