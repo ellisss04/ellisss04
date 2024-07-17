@@ -22,9 +22,6 @@ education = {
   "year": 2.0,
 }
 
-
-
-
 fields_of_interests:
   [
     "Machine Learning",
