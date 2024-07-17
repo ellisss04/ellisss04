@@ -33,7 +33,7 @@ fields_of_interests:
     "Nature inspired computing"
   ]
  
-currently_learning: ["C, C++, Flask"]
+currently_learning: ["C++, PyQt, Serial data processing"]
 2024 Goals: ["Create an array of fun projects to improve my abilities"]
 hobbies: ["Music", "Guitar", "Gym", "Reading"]
 ```
