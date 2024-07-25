@@ -12,9 +12,9 @@
 
 
 ```yaml
-name: Ellis Mackness
-located_in: South Coast, United Kingdom
-current_position: Software engineering intern at Gill Research and Development ltd.
+name: "Ellis Mackness"
+located_in: (South Coast, United Kingdom)
+current_position: "Software engineering intern at Gill Research and Development ltd."
 
 education = {
   "location": "University of Exeter",
@@ -31,7 +31,7 @@ fields_of_interests = [
   ]
  
 currently_learning: ["C++, PyQt, Serial data processing"]
-2024 Goals: ["Gain meaningful work experience"]
+2024_goals: ["Gain meaningful work experience"]
 hobbies: ["Music", "Guitar", "Gym", "Reading"]
 ```
 
