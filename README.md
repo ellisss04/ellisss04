@@ -13,7 +13,7 @@
 
 ```yaml
 name: "Ellis Mackness"
-located_in: (South Coast, United Kingdom)
+located_in: ('South Coast', 'United Kingdom')
 current_position: "Software engineering intern at Gill Research and Development ltd."
 
 education = {
