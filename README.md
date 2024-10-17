@@ -14,7 +14,6 @@
 ```yaml
 name: "Ellis Mackness"
 located_in: ('South Coast', 'United Kingdom')
-current_position: "Software engineering intern at Gill Research and Development ltd."
 
 education = {
   "location": "University of Exeter",
@@ -24,10 +23,10 @@ education = {
 
 fields_of_interests = [
     "Machine Learning",
-    "Natural Language Processing",
+    "Backend development"
     "Genetic algorithms/programming",
     "Data Science",
-    "Nature inspired computing"
+    "Nature-inspired computing"
   ]
  
 currently_learning: ["C++, PyQt, Serial data processing"]
