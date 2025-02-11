@@ -50,7 +50,7 @@ hobbies: ["Music", "Guitar", "Gym", "Reading"]
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 🔭 I’m currently working on: [Spotfolio](https://github.com/ellisss04/Spotify_Portfolio)
+## 🔭 I’m currently working on: Semantic Genetic Programming (final year project)
 
 
 ### :fire: My Stats :
