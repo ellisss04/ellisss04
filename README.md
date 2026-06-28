@@ -18,19 +18,17 @@ located_in: ('South Coast', 'United Kingdom')
 education = {
   "location": "University of Exeter",
   "subject": "Computer Science BSc",
-  "year": 3.0,
 }
 
 fields_of_interests = [
-    "Machine Learning",
+    "Low level programming",
     "Backend development"
     "Genetic algorithms/programming",
     "Data Science",
     "Nature-inspired computing"
   ]
  
-currently_learning: ["C++, PyQt, Serial data processing"]
-2024_goals: ["Gain meaningful work experience"]
+currently_learning: ["C++", "Agentic AI"]
 hobbies: ["Music", "Guitar", "Gym", "Reading"]
 ```
 
